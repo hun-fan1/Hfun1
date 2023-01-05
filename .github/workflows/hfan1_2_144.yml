@@ -1,8 +1,8 @@
 name: Hungary fan1-144-2
 
 on:
-  schedule:
-    - cron: '25 22 * * *'
+#  schedule:
+#    - cron: '25 22 * * *'
 
 jobs:
   build:
